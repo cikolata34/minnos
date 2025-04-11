@@ -1,0 +1,2 @@
+# minnos
+EN KÖTÜ CHECKER 
