@@ -1,0 +1,15 @@
+{
+  "MinnoşChecker": {
+    "color_theme": "blue",
+    "fg_color": ["#F5F5F5", "#1A1A1A"],
+    "text_color": ["#000000", "#FFFFFF"],
+    "button_fg_color": ["#3B8ED0", "#1F6AA5"],
+    "button_hover_color": ["#36719F", "#144870"],
+    "button_text_color": ["#FFFFFF", "#FFFFFF"],
+    "entry_fg_color": ["#FFFFFF", "#2B2B2B"],
+    "entry_border_color": ["#979DA2", "#565B5E"],
+    "scrollbar_fg_color": ["#D3D3D3", "#404040"],
+    "scrollbar_button_color": ["#A0A0A0", "#606060"],
+    "scrollbar_button_hover_color": ["#808080", "#505050"]
+  }
+}
